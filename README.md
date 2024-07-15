@@ -2,17 +2,21 @@
 
 <div>
   <a href="https://developer.mozilla.org/es/">
-    <img src="https://www.veryicon.com/download/png/business/vscode-program-item-icon/javascript-map-1?s=256" alt="Logo" width="110" height="110">
+    <img src="https://static.vecteezy.com/system/resources/previews/012/697/298/non_2x/3d-javascript-logo-design-free-png.png" alt="Logo" width="110" height="110">
   </a>
 </div>
 
 # Ejercicios de JavaScript
 
-¡Bienvenido a mi repositorio de ejercicios numero tres. Arrays y funciones con JavaScript! Este repositorio contiene los TP que estoy realizando como parte del curso FullStack en [RollingCode school 👨‍💻](https://web.rollingcodeschool.com/ "RollingCode school").
+¡Bienvenido a mi repositorio de ejercicios numero tres con JavaScript.
+<br>
+Arrays y funciones
+<br>
+Este repositorio contiene los TP que estoy realizando como parte del curso FullStack en [RollingCode school 👨‍💻](https://web.rollingcodeschool.com/ "RollingCode school").
 
 ## Descripción
 
-Este repositorio contiene una colección de ejercicios en JavaScript que abordan diversos temas, desde conceptos básicos hasta avanzados. Los ejercicios son para mejorar mis habilidades de programación en JS.
+Este repositorio tiene una colección de ejercicios en JavaScript que abordan diversos temas, desde conceptos básicos hasta avanzados. Los ejercicios son para mejorar mis habilidades de programación con JS.
 
 ## Estructura del Proyecto
 
