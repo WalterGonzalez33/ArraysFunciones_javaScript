@@ -1,7 +1,8 @@
-
 <div align="center">
+
+<div>
   <a href="https://developer.mozilla.org/es/">
-    <img src="https://cdn-icons-png.flaticon.com/256/1/1492.png" alt="Logo" width="80" height="80">
+    <img src="https://www.veryicon.com/download/png/business/vscode-program-item-icon/javascript-map-1?s=256" alt="Logo" width="110" height="110">
   </a>
 </div>
 
@@ -16,6 +17,7 @@ Este repositorio contiene una colección de ejercicios en JavaScript que abordan
 ## Estructura del Proyecto
 
 La estructura de carpetas del proyecto por sí solo quieres chequear los enunciados y respuestas de los ejercicios es la siguiente:
+</div>
 
 ```
 project-root/
@@ -36,18 +38,27 @@ project-root/
 │
 └── README.md
 ```
+<div align="center">
 
 ## Instalación
 
 Clona este repositorio en tu máquina local usando `git`:
+</div>
 
 ```bash
 $ git clone https://github.com/WalterGonzalez33/ArraysFunciones_javaScript.git
 $ cd ArraysFunciones_javaScript
 ```
+<div align="center">
 
 ## Desarrollador (estudiante) 💻
 
-| [![Walter Gonzalez](https://avatars.githubusercontent.com/u/83594534?v=4)](https://github.com/WalterGonzalez33)|
-|---|
-| [Walter Gonzalez](https://github.com/WalterGonzalez33) |
+<div>
+  <a href="https://github.com/WalterGonzalez33">
+    <img src="https://avatars.githubusercontent.com/u/83594534?v=4" alt="profile" width="110" height="110">
+  </a>
+</div>
+
+ [Walter Gonzalez](https://github.com/WalterGonzalez33) 
+</div>
+</div>
