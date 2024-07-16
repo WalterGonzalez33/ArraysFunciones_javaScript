@@ -16,7 +16,7 @@ Este repositorio contiene los TP que estoy realizando como parte del curso FullS
 
 ## Descripción
 
-Este repositorio tiene una colección de ejercicios en JavaScript que abordan diversos temas, desde conceptos básicos hasta avanzados. Los ejercicios son para mejorar mis habilidades de programación con JS.
+Este repositorio tiene una colección de ejercicios en JavaScript que abordan diversos temas, desde conceptos básicos hasta avanzados. Los ejercicios son para mejorar mis habilidades de programación.
 
 ## Estructura del Proyecto
 
