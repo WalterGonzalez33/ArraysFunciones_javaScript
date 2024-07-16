@@ -1,5 +1,3 @@
-// const turnsDices = parseInt(prompt(`cuantas veces quieres tirar los dados?`))
-
 function rollDice(min, max) {
   min = Math.ceil(min);
   max = Math.floor(max);
